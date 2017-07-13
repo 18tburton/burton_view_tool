@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+BurtonViewTool::Renderer.copyright 'Tanner Burton', 'All rights reserved'
+```
 
 ## Development
 
